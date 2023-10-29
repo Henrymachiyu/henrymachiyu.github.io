@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Henry's Website"
 title_separator          : "-"
-name                     : &name "Chiyu(Henry) Ma"
+name                     : &name "Chiyu Ma"
 description              : &description "Phd @ Dartmouth College"
 url                      : https://henrymachiyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

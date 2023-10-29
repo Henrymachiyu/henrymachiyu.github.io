@@ -17,9 +17,9 @@ Prof. Zach Branson on some statistical analysis applications in Biology field.
 
 Teaching
 ======
-Duke Decison 618/521: Decision Analytics and Modeling TA: Fall 2021 \\
-Duke CS 617: Introduction to Machine Learning TA: Fall 2022 \\
-Dartmouth COSC 070: Foundations of Applied Computer Science TA: Fall 2023 \\
+Duke Decison 618/521: Decision Analytics and Modeling TA: Fall 2021 <br>
+Duke CS 617: Introduction to Machine Learning TA: Fall 2022 <br>
+Dartmouth COSC 070: Foundations of Applied Computer Science TA: Fall 2023 <br>
 
 
 Services

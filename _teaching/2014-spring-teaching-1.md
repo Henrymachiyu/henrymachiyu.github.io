@@ -2,7 +2,7 @@
 title: "TA for Decision 618 and 521"
 collection: teaching
 type: "Graduate course"
-#permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "Duke University, Fuqua school of Business"
 date: 2021-08
 location: "Durham, NC"

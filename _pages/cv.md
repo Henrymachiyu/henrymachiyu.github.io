@@ -31,7 +31,7 @@ Confirm the prediction on volatility with the Long Short-Term Memory Model
 Collaborated with colleagues to finish a report on the volatility of Bitcoin daily log return
   * Supervisor: Allie Zhang
   
-Publications
+Publications 
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}

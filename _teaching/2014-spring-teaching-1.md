@@ -1,13 +1,20 @@
 ---
-title: "TA for Decision 618 and 521"
+title: "Teaching experience 1"
 collection: teaching
-type: "Graduate course"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Duke University, Fuqua school of Business"
-date: 2021-08
-location: "Durham, NC"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-Hold weekly Office Hours for the Decision 618, and 521 MBA Data Science Courses 
-Helped students to understand the algorithm and concepts of Machine Learning and Data science 
-Helped professor to check and debug on the lecture code scripts for topics in Machine Learning such as Parametric regressions, unsupervised learning, Classifiers, and Feature Engineering with R.
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======

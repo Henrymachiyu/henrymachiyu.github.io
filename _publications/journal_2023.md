@@ -3,7 +3,7 @@ title: "OC-008 NEURAL NETWORKS PREDICTING HERNIA RECURRENCE AFTER ABDOMINAL WALL
 (AWR) PERFORM BETTER WITHOUT PREOPERATIVE IMAGING"
 collection: publications
 permalink: /publication/journal_2023
-excerpt: 'This paper is accepted by British Journal of Surgery'
+excerpt: 'This paper is accepted by British Journal of Surgery, Volume 110, Issue Supplement_2'
 date: 2023-05-01
 venue: 'British Journal of Surgery'
 ---

@@ -22,4 +22,4 @@ Dartmouth COSC 070: Foundations of Applied Computer Science TA: Fall 2023 <br>
 
 Services
 ======
-Reviewer: AAAI-AISI track 2023, TMLR 2024, ICML 2024
+Reviewer: AAAI-AISI track 2023, TMLR 2024, ICML 2024, NeurIPS 2024, NeurIPS IAI workshop 2024, ICLR 2025 

@@ -12,7 +12,8 @@ I am a second-year Ph.D. student in Computer Science at Dartmouth College, advis
 Prior to Dartmouth, I earned a Master's in Statistical Science from Duke University, where I was a member of the Interpretable Machine Learning Lab, advised by Prof. [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). I also collaborated with Prof. [Chaofan Chen](https://umaine.edu/scis/people/chaofan-chen/) from UMaine. Before that, I completed a B.S. in Statistics with honors from Carnegie Mellon University, concentrating in Computational Finance, and worked with Prof. [Zach Branson](https://sites.google.com/site/zjbranson/) on statistical analysis in biological applications.
 
 
-## Selected Publications
+## Publications
+
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
         <img src="images/protoVIT_demo.png" alt="description" width="450"/>
@@ -29,6 +30,24 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
     </div>
 </div>
 <br>
+
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
+        <img src="images/knowledge continuity demo.png" alt="description" width="450"/>
+    </div>
+    <div>
+        <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Achieving Domain-Independent Certified Robustness via Knowledge Continuity </h3>
+        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Alan Sun, <b>Chiyu Ma</b>, Kenneth Ge, Soroush Vosoughi</p> 
+        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"><b> Neural Information Processing Systems (NeurIPS) 2024 , Poster</b></p>
+        <a href="" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
+        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
+        <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
+        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
+        <a href="" style="font-size: 13px;margin-bottom: 5px;">Code</a>
+    </div>
+</div>
+<br>
+
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
         <img src="images/this_look_like_those_demo.png" alt="description" width="450"/>

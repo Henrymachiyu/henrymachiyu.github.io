@@ -13,6 +13,22 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 
 
 ## Publications
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
+        <img src="images/Judge_Judge_demo.png" alt="description" width="450"/>
+    </div>
+    <div>
+        <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Juding the Judges: A Systematic Investigation of Position Bias in Pairwise Comparative Assessments by LLMs</h3>
+        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Lin Shi, <b>Chiyu Ma</b>, Wenhua Liang, Weicheng Ma, Soroush Vosoughi</p> 
+        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> In Submission </p>
+        <a href="" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
+        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
+        <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
+        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
+        <a href="" style="font-size: 13px;margin-bottom: 5px;">Code</a>
+    </div>
+</div>
+<br>
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">

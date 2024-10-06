@@ -20,7 +20,7 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
     <div>
         <h3 style="font-size: 15px; color: #333">This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</h3>
         <p style="font-size: 10px; color: #333"><b>Chiyu Ma*</b>, Brandon Zhao*, Chaofan Chen, Cynthia Rudin</p> 
-        <p style="font-size: 10px; color: #333"><b>Neural Information Processing Systems (NeurIPS) 2023 </b>, Poster</p>
+        <p style="font-size: 10px; color: #333"><b> Neural Information Processing Systems (NeurIPS) 2023 , Poster</p> </b>
         <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/7b76eea0c3683e440c3d362620f578cd-Paper-Conference.pdf" style="font-size: 10px">Paper</a>
         <span style="font-size: 10px; color: #333"> / </span>
         <a href="https://neurips.cc/virtual/2023/poster/71040" style="font-size: 10px">Video</a> 

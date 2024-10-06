@@ -15,17 +15,17 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 ## Selected Publications
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
-        <img src="images/this_look_like_those_demo.png" alt="description" width="400"/>
+        <img src="images/this_look_like_those_demo.png" alt="description" width="450"/>
     </div>
     <div>
         <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</h3>
         <p style="font-size: 13px;color: #333; margin-bottom: 5px;"><b>Chiyu Ma*</b>, Brandon Zhao*, Chaofan Chen, Cynthia Rudin</p> 
         <p style="font-size: 13px;color: #333; margin-bottom: 5px;"><b> Neural Information Processing Systems (NeurIPS) 2023 , Poster</b></p>
-        <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/7b76eea0c3683e440c3d362620f578cd-Paper-Conference.pdf" style="font-size: 13px;color: #333; margin-bottom: 5px;">Paper</a>
+        <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/7b76eea0c3683e440c3d362620f578cd-Paper-Conference.pdf" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
         <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="https://neurips.cc/virtual/2023/poster/71040" style="font-size: 13px;color: #333; margin-bottom: 5px;">Video</a> 
+        <a href="https://neurips.cc/virtual/2023/poster/71040" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
         <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="https://github.com/Henrymachiyu/This-looks-like-those_ProtoConcepts" style="font-size: 13px;color: #333; margin-bottom: 5px;">Code</a>
+        <a href="https://github.com/Henrymachiyu/This-looks-like-those_ProtoConcepts" style="font-size: 13px;margin-bottom: 5px;">Code</a>
     </div>
 </div>
 

@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-
+About Me
+======
 I am a second-year Ph.D. student in Computer Science at Dartmouth College, advised by Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush//). My research focuses on trustworthy AI, with an emphasis on the interpretability of computer vision (CV) and natural language processing (NLP) models. I aim to design and develop intrinsically interpretable algorithms that enhance AI transparency and trustworthiness.
 Prior to Dartmouth, I earned a Master's in Statistical Science from Duke University, where I was a member of the Interpretable Machine Learning Lab, advised by Prof. [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). I also collaborated with Prof. [Chaofan Chen](https://umaine.edu/scis/people/chaofan-chen/) from UMaine. Before that, I completed a B.S. in Statistics with honors from Carnegie Mellon University, concentrating in Computational Finance, and worked with Prof. [Zach Branson](https://sites.google.com/site/zjbranson/) on statistical analysis in biological applications.
+
+
+Selected Publications
+======
+![This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations](images/this_look_like_those_demo.png)
 
 Teaching
 ======

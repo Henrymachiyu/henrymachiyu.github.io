@@ -20,19 +20,15 @@ Selected Publications
     </div>
     <div>
         <h3>This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</h3>
-        <p> <b>Chiyu Ma*</b>, <b>Brandon Zhao*</b>, Chaofan Chen, Cynthia Rudin</p> <br>
-        <p style="font-size: 14px;">Neural Information Processing Systems (NeurIPS), 2023, Poster <br>
+        <p><b>Chiyu Ma*</b>, <b>Brandon Zhao*</b>, Chaofan Chen, Cynthia Rudin</p> 
+        <p style="font-size: 14px;">Neural Information Processing Systems (NeurIPS), 2023, Poster</p>
     </div>
 </div>
 
+## Teaching
+- **Duke Decision 618/521**: Decision Analytics and Modeling TA: Fall 2021
+- **Duke CS 617**: Introduction to Machine Learning TA: Fall 2022
+- **Dartmouth COSC 070**: Foundations of Applied Computer Science TA: Fall 2023
 
-Teaching
-======
-Duke Decison 618/521: Decision Analytics and Modeling TA: Fall 2021 <br>
-Duke CS 617: Introduction to Machine Learning TA: Fall 2022 <br>
-Dartmouth COSC 070: Foundations of Applied Computer Science TA: Fall 2023 <br>
-
-
-Services
-======
-Reviewer: AAAI-AISI track 2023, TMLR 2024, ICML 2024, NeurIPS 2024, NeurIPS IAI workshop 2024, ICLR 2025 
+## Reviewer Services
+- Reviewer: AAAI-AISI track 2023, TMLR 2024, ICML 2024, NeurIPS 2024, NeurIPS IAI workshop 2024, ICLR 2025

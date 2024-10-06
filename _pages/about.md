@@ -22,9 +22,6 @@ Selected Publications
         <h3>This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</h3>
         <p> <b>Chiyu Ma*</b>, <b>Brandon Zhao*</b>, Chaofan Chen, Cynthia Rudin</p> <br>
         <p style="font-size: 14px;">Neural Information Processing Systems (NeurIPS), 2023, Poster <br>
-        [Paper]("https://proceedings.neurips.cc/paper_files/paper/2023/file/7b76eea0c3683e440c3d362620f578cd-Paper-Conference.pdf")/
-        [Video]("https://neurips.cc/virtual/2023/poster/71040") /
-        [Code]("https://github.com/Henrymachiyu/This-looks-like-those_ProtoConcepts")
     </div>
 </div>
 

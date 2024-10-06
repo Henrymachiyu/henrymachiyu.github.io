@@ -14,7 +14,7 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 
 ## Selected Publications
 <div style="display: flex; align-items: center;">
-    <div style="margin-right: 5px;">
+    <div style="margin-right: 0px;">
         <img src="images/this_look_like_those_demo.png" alt="description" width="400"/>
     </div>
     <div>

@@ -14,27 +14,17 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 
 Selected Publications
 ======
-<div style="display: flex; align-items: center;">
-    <div style="margin-right: 10px;">
-        <img src="images/this_look_like_those_demo.png" alt="description" width="300"/>
+<div style="display: flex; align-items: flex-start;">
+    <div style="margin-right: 20px;">
+        <img src="images/this_look_like_those_demo.png" alt="Description of Image" width="250"/>
     </div>
     <div>
-        <h3><a href="https://neurips.cc/virtual/2023/poster/71040">This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</a></h3>
-        <p style="font-size: 9px;">We present ProtoConcepts, a method for interpretable image classification combining deep learning and case-based reasoning using prototypical parts. Existing
-work in prototype-based image classification uses a “this looks like that” reasoning
-process, which dissects a test image by finding prototypical parts and combining
-evidence from these prototypes to make a final classification. However, all of the
-existing prototypical part-based image classifiers provide only one-to-one comparisons, where a single training image patch serves as a prototype to compare with a
-part of our test image. With these single-image comparisons, it can often be difficult
-to identify the underlying concept being compared (e.g., “is it comparing the color
-or the shape?”). Our proposed method modifies the architecture of prototype-based
-networks to instead learn prototypical concepts which are visualized using multiple
-image patches. Having multiple visualizations of the same prototype allows us to
-more easily identify the concept captured by that prototype (e.g., “the test image
-and the related training patches are all the same shade of blue”), and allows our
-model to create richer, more interpretable visual explanations. Our experiments
-show that our “this looks like those” reasoning process can be applied as a modification to a wide range of existing prototypical image classification networks while
-achieving comparable accuracy on benchmark datasets.</p>
+        <h3 style="font-size: 18px; color: blue;"><a href="https://neurips.cc/virtual/2023/poster/71040">This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</a></h3>
+        <p><b>Chiyu Ma&#42</b>, <b>Brandon Zhao&#42</b>, Chaofan Chen, Cynthia Rudin</p>
+        <p style="font-size: 14px;">Neural Information Processing Systems (NeurIPS), 2023, Poster <br>
+        <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/7b76eea0c3683e440c3d362620f578cd-Paper-Conference.pdf"> Paper</a> /
+        <a href="https://neurips.cc/virtual/2023/poster/71040"> Video </a> /
+        <a href="https://github.com/Henrymachiyu/This-looks-like-those_ProtoConcepts"> Code</a>
     </div>
 </div>
 

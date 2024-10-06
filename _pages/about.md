@@ -16,12 +16,12 @@ Selected Publications
 ======
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 10px;">
-        <img src="images/this_look_like_those_demo.png" alt="description" width="150"/>
+        <img src="images/this_look_like_those_demo.png" alt="description" width="300"/>
     </div>
     <div>
-        <h3>This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</h3>
-        <p><b>Chiyu Ma*</b>, <b>Brandon Zhao*</b>, Chaofan Chen, Cynthia Rudin</p> 
-        <p style="font-size: 14px;">Neural Information Processing Systems (NeurIPS), 2023, Poster</p>
+        <h3 style="font-size: 10px;">This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</h3>
+        <p style="font-size: 7px;"><b>Chiyu Ma*</b>, <b>Brandon Zhao*</b>, Chaofan Chen, Cynthia Rudin</p> 
+        <p style="font-size: 7px;">Neural Information Processing Systems (NeurIPS), 2023, Poster</p>
     </div>
 </div>
 

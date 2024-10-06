@@ -16,7 +16,15 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 
 Selected Publications
 ======
-![This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations](images/this_look_like_those_demo.png)
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 10px;">
+        <img src="images/this_look_like_those_demo.png" alt="description" width="150"/>
+    </div>
+    <div>
+        <h3>This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</h3>
+        <p>Description of the image goes here. This is where you provide details or context for the image.</p>
+    </div>
+</div>
 
 Teaching
 ======

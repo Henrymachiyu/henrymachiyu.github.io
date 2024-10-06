@@ -12,8 +12,7 @@ I am a second-year Ph.D. student in Computer Science at Dartmouth College, advis
 Prior to Dartmouth, I earned a Master's in Statistical Science from Duke University, where I was a member of the Interpretable Machine Learning Lab, advised by Prof. [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). I also collaborated with Prof. [Chaofan Chen](https://umaine.edu/scis/people/chaofan-chen/) from UMaine. Before that, I completed a B.S. in Statistics with honors from Carnegie Mellon University, concentrating in Computational Finance, and worked with Prof. [Zach Branson](https://sites.google.com/site/zjbranson/) on statistical analysis in biological applications.
 
 
-Selected Publications
-======
+## Selected Publications
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 10px;">
         <img src="images/this_look_like_those_demo.png" alt="description" width="300"/>
@@ -26,9 +25,9 @@ Selected Publications
 </div>
 
 ## Teaching
-- **Duke Decision 618/521**: Decision Analytics and Modeling TA: Fall 2021
-- **Duke CS 617**: Introduction to Machine Learning TA: Fall 2022
-- **Dartmouth COSC 070**: Foundations of Applied Computer Science TA: Fall 2023
+- Duke Decision 618/521: Decision Analytics and Modeling TA: Fall 2021
+- Duke CS 617: Introduction to Machine Learning TA: Fall 2022
+- Dartmouth COSC 070: Foundations of Applied Computer Science TA: Fall 2023
 
 ## Reviewer Services
 - Reviewer: AAAI-AISI track 2023, TMLR 2024, ICML 2024, NeurIPS 2024, NeurIPS IAI workshop 2024, ICLR 2025

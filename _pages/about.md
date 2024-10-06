@@ -14,8 +14,8 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 
 ## Selected Publications
 <div style="display: flex; align-items: center;">
-    <div style="margin-right: 10px;">
-        <img src="images/this_look_like_those_demo.png" alt="description" width="350"/>
+    <div style="margin-right: 5px;">
+        <img src="images/this_look_like_those_demo.png" alt="description" width="400"/>
     </div>
     <div>
         <h3 style="font-size: 15px">This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</h3>

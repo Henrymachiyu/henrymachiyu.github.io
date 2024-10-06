@@ -17,16 +17,13 @@ Selected Publications
 <div style="display: flex; align-items: flex-start;">
     <div style="margin-right: 20px;">
         <img src="images/this_look_like_those_demo.png" alt="Description of Image" width="250"/>
-    </div>
-    <div>
         <h3 style="font-size: 18px; color: blue;"><a href="https://neurips.cc/virtual/2023/poster/71040">This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</a></h3>
         <p><b>Chiyu Ma&#42</b>, <b>Brandon Zhao&#42</b>, Chaofan Chen, Cynthia Rudin</p>
         <p style="font-size: 14px;">Neural Information Processing Systems (NeurIPS), 2023, Poster <br>
         <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/7b76eea0c3683e440c3d362620f578cd-Paper-Conference.pdf"> Paper</a> /
         <a href="https://neurips.cc/virtual/2023/poster/71040"> Video </a> /
         <a href="https://github.com/Henrymachiyu/This-looks-like-those_ProtoConcepts"> Code</a>
-    </div>
-</div>
+        <br>
 
 Teaching
 ======

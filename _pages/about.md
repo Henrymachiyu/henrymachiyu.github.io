@@ -19,8 +19,8 @@ Selected Publications
         <img src="images/this_look_like_those_demo.png" alt="description" width="300"/>
     </div>
     <div>
-        <h3>This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</h3>
-        <p>We present ProtoConcepts, a method for interpretable image classification combining deep learning and case-based reasoning using prototypical parts. Existing
+        <h3><a href="https://neurips.cc/virtual/2023/poster/71040">This Looks Like Those: Illuminating Prototypical Concepts Using Multiple Visualizations</a></h3>
+        <p style="font-size: 9px;">We present ProtoConcepts, a method for interpretable image classification combining deep learning and case-based reasoning using prototypical parts. Existing
 work in prototype-based image classification uses a “this looks like that” reasoning
 process, which dissects a test image by finding prototypical parts and combining
 evidence from these prototypes to make a final classification. However, all of the

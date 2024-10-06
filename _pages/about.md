@@ -87,3 +87,8 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 
 ## Reviewer Services
 - Reviewer: AAAI-AISI track 2023, TMLR 2024, ICML 2024, NeurIPS 2024, NeurIPS IAI workshop 2024, ICLR 2025
+
+## Education
+- **Ph.D. in Computer Science**, Dartmouth College, 2028 (expected)
+- **M.S. in Statistical Science**, Duke University, 2023
+- **B.S. in Statistics (with Honors)**, Carnegie Mellon University, 2021

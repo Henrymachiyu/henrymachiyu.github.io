@@ -15,6 +15,22 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 ## Selected Publications
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
+        <img src="images/protoVIT_demo.png" alt="description" width="450"/>
+    </div>
+    <div>
+        <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Interpretable Image Classification with Adaptive Prototype-based Vision Transformers</h3>
+        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"><b>Chiyu Ma</b>, Jon Donnelly, Wenjun Liu, Soroush Vosoughi, Cynthia Rudin, Chaofan Chen</p> 
+        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"><b> Neural Information Processing Systems (NeurIPS) 2024 , Poster</b></p>
+        <a href="" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
+        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
+        <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
+        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
+        <a href="" style="font-size: 13px;margin-bottom: 5px;">Code</a>
+    </div>
+</div>
+<br>
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
         <img src="images/this_look_like_those_demo.png" alt="description" width="450"/>
     </div>
     <div>

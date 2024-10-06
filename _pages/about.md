@@ -15,7 +15,7 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 ## Publications
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
-        <img src="images/Judge_Judge_demo.png" alt="description" width="450"/>
+        <img src="images/Judge_Judge_demo.png" alt="description" width="500"/>
     </div>
     <div>
         <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Juding the Judges: A Systematic Investigation of Position Bias in Pairwise Comparative Assessments by LLMs</h3>

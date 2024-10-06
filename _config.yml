@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Henry Ma"
+  name             : "Chiyu(Henry) Ma"
   avatar           : "watercolor_humming_bird_5376x6912px.png"
   bio              : "phd student at Dartmouth College"
   location         : "Hanover, NH"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=h_3TRv0AAAAJ&hl=en"
-  email            :
+  email            : Chiyu.ma.gr@dartmouth.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :https://www.linkedin.com/in/henry-chiyu-ma-3b7b30203
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

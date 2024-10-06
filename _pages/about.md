@@ -87,8 +87,9 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 - Dartmouth COSC 070: Foundations of Applied Computer Science TA: Fall 2023
 
 ## Reviewer Services
-- Reviewer: AAAI-AISI track 2023, TMLR 2024, ICML 2024, NeurIPS 2024, NeurIPS IAI workshop 2024, ICLR 2025
-
+- Conference: AAAI-AISI track 2023, ICML 2024, NeurIPS 2024, ICLR 2025
+- Workshop: NeurIPS IAI workshop 2024
+- Journal: TMLR 2024
 ## Education
 - **Ph.D. in Computer Science**, Dartmouth College, 2028 (expected)
 - **M.S. in Statistical Science**, Duke University, 2023

@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 
-I'm a first year Ph.D student in Computer Science at Dartmouth College, fortunate to be advised by Prof. Soroush Vosoughi. My current research interest
-lies in various aspects of the interpretability of CV and NLP models. My goal is to design and develop intrinsic interpretable alogrithms for AI. 
-Before Dartmouth, I was a Master student in Statistical Science at Duke University. I was a member of the Duke Interpretable Machine Learning Lab advised by Prof. Cynthia Rudin, and collaborated with Prof. Chaofan Chen from UMaine. Even before, I did my B.S. (with honors) at Carnegie Mellon University majored in Statistics with concentration in Computational Finance, and I was working with Prof. Zach Branson on statistical analysis applications in Biology. 
+I am a second-year Ph.D. student in Computer Science at Dartmouth College, advised by Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush//). My research focuses on trustworthy AI, with an emphasis on the interpretability of computer vision (CV) and natural language processing (NLP) models. I aim to design and develop intrinsically interpretable algorithms that enhance AI transparency and trustworthiness.
+Prior to Dartmouth, I earned a Master's in Statistical Science from Duke University, where I was a member of the Interpretable Machine Learning Lab, advised by Prof. [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). I also collaborated with Prof. [Chaofan Chen](https://umaine.edu/scis/people/chaofan-chen/) from UMaine. Before that, I completed a B.S. in Statistics with honors from Carnegie Mellon University, concentrating in Computational Finance, and worked with Prof. [Zach Branson](https://sites.google.com/site/zjbranson/) on statistical analysis in biological applications.
 
 Teaching
 ======

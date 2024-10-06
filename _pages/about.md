@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+## About Me 
 I am, Chiyu(Henry) Ma, a second-year Ph.D. student in Computer Science at Dartmouth College, advised by Prof. [Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush//). My research focuses on trustworthy AI, with an emphasis on the interpretability of computer vision (CV) and natural language processing (NLP) models. I aim to design and develop intrinsically interpretable algorithms that enhance AI transparency and trustworthiness.
 Prior to Dartmouth, I earned a Master's in Statistical Science from Duke University, where I was a member of the Interpretable Machine Learning Lab, advised by Prof. [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). I also collaborated with Prof. [Chaofan Chen](https://umaine.edu/scis/people/chaofan-chen/) from UMaine. Before that, I completed a B.S. in Statistics with honors from Carnegie Mellon University, concentrating in Computational Finance, and worked with Prof. [Zach Branson](https://sites.google.com/site/zjbranson/) on statistical analysis in biological applications.
 
 **I am always open to collaboration and enjoy doing research! If you are interested in working on some projects together, feel free to send me an email!**
 
-## Publications
+## Selected Publications
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
         <img src="images/Judge_Judge_demo.png" alt="description" width="500"/>
@@ -81,7 +81,7 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
     </div>
 </div>
 
-## Teaching
+## Teaching Experiences
 - Duke Decision 618/521: Decision Analytics and Modeling TA: Fall 2021
 - Duke CS 617: Introduction to Machine Learning TA: Fall 2022
 - Dartmouth COSC 070: Foundations of Applied Computer Science TA: Fall 2023
@@ -90,7 +90,8 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 - Conference: AAAI-AISI track 2023, ICML 2024, NeurIPS 2024, ICLR 2025
 - Workshop: NeurIPS IAI workshop 2024
 - Journal: TMLR 2024
-## Education
+
+## Education History
 - **Ph.D. in Computer Science**, Dartmouth College, 2028 (expected)
 - **M.S. in Statistical Science**, Duke University, 2023
 - **B.S. in Statistics (with Honors)**, Carnegie Mellon University, 2021

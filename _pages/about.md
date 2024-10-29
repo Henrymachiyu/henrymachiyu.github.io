@@ -39,11 +39,11 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
         <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Interpretable Image Classification with Adaptive Prototype-based Vision Transformers</h3>
         <p style="font-size: 13px;color: #333; margin-bottom: 5px;"><b>Chiyu Ma</b>, Jon Donnelly, Wenjun Liu, Soroush Vosoughi, Cynthia Rudin, Chaofan Chen</p> 
         <p style="font-size: 13px;color: #333; margin-bottom: 5px;"><b> Neural Information Processing Systems (NeurIPS) 2024 , Poster</b></p>
-        <a href="" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
+        <a href="https://arxiv.org/abs/2410.20722" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
         <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
+        <a href="https://neurips.cc/virtual/2024/poster/94047" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
         <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Code</a>
+        <a href="https://github.com/Henrymachiyu/ProtoViT" style="font-size: 13px;margin-bottom: 5px;">Code</a>
     </div>
 </div>
 <br>

@@ -56,11 +56,11 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
         <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Achieving Domain-Independent Certified Robustness via Knowledge Continuity </h3>
         <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Alan Sun, <b>Chiyu Ma</b>, Kenneth Ge, Soroush Vosoughi</p> 
         <p style="font-size: 13px;color: #333; margin-bottom: 5px;"><b> Neural Information Processing Systems (NeurIPS) 2024 , Poster</b></p>
-        <a href="" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
+        <a href="https://arxiv.org/pdf/2411.01644" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
         <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
+        <a href="https://nips.cc/virtual/2024/poster/93235" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
         <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Code</a>
+        <a href="https://github.com/alansun17904/kc" style="font-size: 13px;margin-bottom: 5px;">Code</a>
     </div>
 </div>
 <br>

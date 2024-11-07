@@ -13,7 +13,7 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
 
 **I am always open to collaboration and enjoy doing research! If you are interested in working on some projects together, feel free to send me an email!**
 
-## Selected Publications
+## Preprints
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
         <img src="images/Judge_Judge_demo.png" alt="description" width="500"/>
@@ -30,7 +30,7 @@ Prior to Dartmouth, I earned a Master's in Statistical Science from Duke Univers
     </div>
 </div>
 <br>
-
+## Selected Publications
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
         <img src="images/protoVIT_demo.png" alt="description" width="450"/>

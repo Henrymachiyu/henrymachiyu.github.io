@@ -89,8 +89,8 @@ LLM-as-a-Judge</h3>
 - Dartmouth COSC 070: Foundations of Applied Computer Science TA: Fall 2023
 
 ## Reviewer Services
-- Conference: AAAI-AISI track 2023, ICML 2024, NeurIPS 2024, ICLR 2025
-- Workshop: NeurIPS IAI workshop 2024
+- Conference: AAAI-AISI track 2023, ICML 2024, NeurIPS 2024, ICLR 2025, ICML 2025
+- Workshop: NeurIPS IAI workshop 2024, ICLR LLM Reasoning and Plan Workshop 2025
 - Journal: TMLR 2024
 
 ## Education History

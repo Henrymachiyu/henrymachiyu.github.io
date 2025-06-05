@@ -34,21 +34,20 @@ LLM-as-a-Judge</h3>
 <br>
 
 <div style="display: flex; align-items: center;">
-    <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
-        <img src="images/2.png" alt="description" width="700"/>
+    <div style="margin-right: 0px; color: #333; margin-bottom: 5px;">
+        <img src="images/2.png" alt="description" style="width: 700px; height: 300px; object-fit: contain;"/>
     </div>
     <div>
-        <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Judging with Many Minds: Do More Perspectives Mean Less Prejudice? </h3>
-        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> <b>Chiyu Ma*</b>, Enpei Zhang*, Yilun Zhao, Wenjun Liu, Yaning Jia, Peijun Qing, Lin Shi, Arman Cohan, Yujun Yan, Soroush Vosoughi</p> 
-        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Preprint </p>
+        <h3 style="font-size: 15px; color: #333; margin-bottom: 5px;">Judging with Many Minds: Do More Perspectives Mean Less Prejudice?</h3>
+        <p style="font-size: 13px; color: #333; margin-bottom: 5px;"><b>Chiyu Ma*</b>, Enpei Zhang*, Yilun Zhao, Wenjun Liu, Yaning Jia, Peijun Qing, Lin Shi, Arman Cohan, Yujun Yan, Soroush Vosoughi</p> 
+        <p style="font-size: 13px; color: #333; margin-bottom: 5px;">Preprint</p>
         <a href="https://arxiv.org/abs/2505.19477" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
-        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
-        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="https://github.com/Henrymachiyu/Multi_Agent_Judge_Bias" style="font-size: 13px;margin-bottom: 5px;">Code</a>
+        <span style="font-size: 13px; color: #333; margin-bottom: 5px;"> / </span>
+        <a href="" style="font-size: 13px; margin-bottom: 5px;">Video</a> 
+        <span style="font-size: 13px; color: #333; margin-bottom: 5px;"> / </span>
+        <a href="https://github.com/Henrymachiyu/Multi_Agent_Judge_Bias" style="font-size: 13px; margin-bottom: 5px;">Code</a>
     </div>
 </div>
-<br>
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">

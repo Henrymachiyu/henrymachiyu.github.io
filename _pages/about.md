@@ -35,7 +35,7 @@ LLM-as-a-Judge</h3>
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px; color: #333; margin-bottom: 5px;">
-        <img src="images/2.png" alt="description" style="width: 500px; height: 200px; object-fit: contain;"/>
+        <img src="images/3.png" alt="description" style="width: 700px; height: 300px; object-fit: contain;"/>
     </div>
     <div>
         <h3 style="font-size: 15px; color: #333; margin-bottom: 5px;">Judging with Many Minds: Do More Perspectives Mean Less Prejudice?</h3>
@@ -51,7 +51,7 @@ LLM-as-a-Judge</h3>
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
-        <img src="images/music1.png" alt="description" width="900"/>
+        <img src="images/music1.png" alt="description" width="1000"/>
     </div>
     <div>
         <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Music's Multimodal Complexity in AVQA: Why We Need More than General Multimodal LLMs</h3>

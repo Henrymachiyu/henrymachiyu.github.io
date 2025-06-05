@@ -14,24 +14,7 @@ My research focuses on building trustworthy AI systems, with an emphasis on fair
 
 **I am always open to collaboration and enjoy doing research! If you are interested in working on some projects together, feel free to send me an email!**
 
-## Preprints
-<div style="display: flex; align-items: center;">
-    <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
-        <img src="images/Judge_Judge_demo.png" alt="description" width="500"/>
-    </div>
-    <div>
-        <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Judging the Judges: A Systematic Study of Position Bias in
-LLM-as-a-Judge</h3>
-        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Lin Shi, <b>Chiyu Ma</b>, Wenhua Liang, Weicheng Ma, Soroush Vosoughi</p> 
-        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Preprint </p>
-        <a href="https://arxiv.org/pdf/2406.07791" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
-        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
-        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Code</a>
-    </div>
-</div>
-<br>
+## Selected Publications
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px; color: #333; margin-bottom: 5px;">
@@ -66,8 +49,24 @@ LLM-as-a-Judge</h3>
 </div>
 <br>
 
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
+        <img src="images/Judge_Judge_demo.png" alt="description" width="500"/>
+    </div>
+    <div>
+        <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Judging the Judges: A Systematic Study of Position Bias in
+LLM-as-a-Judge</h3>
+        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Lin Shi, <b>Chiyu Ma</b>, Wenhua Liang, Weicheng Ma, Soroush Vosoughi</p> 
+        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Preprint </p>
+        <a href="https://arxiv.org/pdf/2406.07791" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
+        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
+        <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
+        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
+        <a href="" style="font-size: 13px;margin-bottom: 5px;">Code</a>
+    </div>
+</div>
+<br>
 
-## Selected Publications
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
         <img src="images/protoVIT_demo.png" alt="description" width="450"/>

@@ -35,7 +35,7 @@ LLM-as-a-Judge</h3>
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
-        <img src="images/Judge_Judge_demo.png" alt="description" width="500"/>
+        <img src="images/2.png" alt="description" width="500"/>
     </div>
     <div>
         <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Judging with Many Minds: Do More Perspectives Mean Less Prejudice? </h3>
@@ -52,13 +52,13 @@ LLM-as-a-Judge</h3>
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
-        <img src="images/Judge_Judge_demo.png" alt="description" width="500"/>
+        <img src="images/music1.png" alt="description" width="500"/>
     </div>
     <div>
         <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Music's Multimodal Complexity in AVQA: Why We Need More than General Multimodal LLMs</h3>
         <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Wenhao You, Xingjian Diao, Chunhui Zhang, Keyi Kong, Weiyi Wu, Zhongyu Ouyang, <b>Chiyu Ma</b>, Tingxuan Wu, Noah Wei, Zong Ke, Ming Cheng, Soroush Vosoughi, Jiang Gui</p> 
         <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Preprint </p>
-        <a href="https://arxiv.org/pdf/2406.07791" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
+        <a href="https://arxiv.org/pdf/2505.20638" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
         <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
         <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
         <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>

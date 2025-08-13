@@ -18,57 +18,6 @@ such as information analysis, and other decision-support systems. More recently,
 ## Selected Publications
 
 <div style="display: flex; align-items: center;">
-    <div style="margin-right: 0px; color: #333; margin-bottom: 5px;">
-        <img src="images/3.png" alt="description" style="width: 700px; height: 300px; object-fit: contain;"/>
-    </div>
-    <div>
-        <h3 style="font-size: 15px; color: #333; margin-bottom: 5px;">Judging with Many Minds: Do More Perspectives Mean Less Prejudice?</h3>
-        <p style="font-size: 13px; color: #333; margin-bottom: 5px;"><b>Chiyu Ma*</b>, Enpei Zhang*, Yilun Zhao, Wenjun Liu, Yaning Jia, Peijun Qing, Lin Shi, Arman Cohan, Yujun Yan, Soroush Vosoughi</p> 
-        <p style="font-size: 13px; color: #333; margin-bottom: 5px;">Preprint</p>
-        <a href="https://arxiv.org/abs/2505.19477" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
-        <span style="font-size: 13px; color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px; margin-bottom: 5px;">Video</a> 
-        <span style="font-size: 13px; color: #333; margin-bottom: 5px;"> / </span>
-        <a href="https://github.com/Henrymachiyu/Multi_Agent_Judge_Bias" style="font-size: 13px; margin-bottom: 5px;">Code</a>
-    </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
-        <img src="images/music1.png" alt="description" width="1000"/>
-    </div>
-    <div>
-        <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Music's Multimodal Complexity in AVQA: Why We Need More than General Multimodal LLMs</h3>
-        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Wenhao You, Xingjian Diao, Chunhui Zhang, Keyi Kong, Weiyi Wu, Zhongyu Ouyang, <b>Chiyu Ma</b>, Tingxuan Wu, Noah Wei, Zong Ke, Ming Cheng, Soroush Vosoughi, Jiang Gui</p> 
-        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Preprint </p>
-        <a href="https://arxiv.org/pdf/2505.20638" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
-        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
-        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Code</a>
-    </div>
-</div>
-<br>
-
-<div style="display: flex; align-items: center;">
-    <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
-        <img src="images/Judge_Judge_demo.png" alt="description" width="500"/>
-    </div>
-    <div>
-        <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Judging the Judges: A Systematic Study of Position Bias in
-LLM-as-a-Judge</h3>
-        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Lin Shi, <b>Chiyu Ma</b>, Wenhua Liang, Weicheng Ma, Soroush Vosoughi</p> 
-        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Preprint </p>
-        <a href="https://arxiv.org/pdf/2406.07791" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
-        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
-        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="" style="font-size: 13px;margin-bottom: 5px;">Code</a>
-    </div>
-</div>
-<br>
-
-<div style="display: flex; align-items: center;">
     <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
         <img src="images/protoVIT_demo.png" alt="description" width="450"/>
     </div>
@@ -81,23 +30,6 @@ LLM-as-a-Judge</h3>
         <a href="https://neurips.cc/virtual/2024/poster/94047" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
         <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
         <a href="https://github.com/Henrymachiyu/ProtoViT" style="font-size: 13px;margin-bottom: 5px;">Code</a>
-    </div>
-</div>
-<br>
-
-<div style="display: flex; align-items: center;">
-    <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
-        <img src="images/knowledge continuity demo.png" alt="description" width="450"/>
-    </div>
-    <div>
-        <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Achieving Domain-Independent Certified Robustness via Knowledge Continuity </h3>
-        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Alan Sun, <b>Chiyu Ma</b>, Kenneth Ge, Soroush Vosoughi</p> 
-        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"><b> Neural Information Processing Systems (NeurIPS 2024) , Poster</b></p>
-        <a href="https://arxiv.org/pdf/2411.01644" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
-        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="https://nips.cc/virtual/2024/poster/93235" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
-        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
-        <a href="https://github.com/alansun17904/kc" style="font-size: 13px;margin-bottom: 5px;">Code</a>
     </div>
 </div>
 <br>
@@ -117,6 +49,23 @@ LLM-as-a-Judge</h3>
         <a href="https://github.com/Henrymachiyu/This-looks-like-those_ProtoConcepts" style="font-size: 13px;margin-bottom: 5px;">Code</a>
     </div>
 </div>
+
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 0px;color: #333; margin-bottom: 5px;">
+        <img src="images/knowledge continuity demo.png" alt="description" width="450"/>
+    </div>
+    <div>
+        <h3 style="font-size: 15px;color: #333; margin-bottom: 5px;">Achieving Domain-Independent Certified Robustness via Knowledge Continuity </h3>
+        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"> Alan Sun, <b>Chiyu Ma</b>, Kenneth Ge, Soroush Vosoughi</p> 
+        <p style="font-size: 13px;color: #333; margin-bottom: 5px;"><b> Neural Information Processing Systems (NeurIPS 2024) , Poster</b></p>
+        <a href="https://arxiv.org/pdf/2411.01644" style="font-size: 13px; margin-bottom: 5px;">Paper</a>
+        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
+        <a href="https://nips.cc/virtual/2024/poster/93235" style="font-size: 13px;margin-bottom: 5px;">Video</a> 
+        <span style="font-size: 13px;color: #333; margin-bottom: 5px;"> / </span>
+        <a href="https://github.com/alansun17904/kc" style="font-size: 13px;margin-bottom: 5px;">Code</a>
+    </div>
+</div>
+<br>
 
 ## Teaching Experiences
 - Duke Decision 618/521: Decision Analytics and Modeling TA: Fall 2021
